@@ -15,4 +15,3 @@
 3. 在仓库setting里面更改githubPages中的source为master branch
 项目的主页默认是index.html，项目后面就不用加上文件名了
 # loveXi
-# loveXi
